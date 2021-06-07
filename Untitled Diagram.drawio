@@ -1,1 +1,123 @@
-<mxfile host="app.diagrams.net" modified="2021-06-07T03:28:04.376Z" agent="5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" version="14.7.6" etag="h2TFQjl8WCPdlIFjlhxw" type="github"><diagram id="ecXcMNMKivYJWaqJNi__">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-07T05:24:31.449Z" agent="5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="dbrsq6-YZG-N2mKjeXn3" version="14.7.6" type="github">
+  <diagram id="ecXcMNMKivYJWaqJNi__" name="Page-1">
+    <mxGraphModel dx="1689" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EDJbJ-teYKVsi12cufid-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EDJbJ-teYKVsi12cufid-1" target="EDJbJ-teYKVsi12cufid-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EDJbJ-teYKVsi12cufid-1" value="UI（NcStudio）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="130" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EDJbJ-teYKVsi12cufid-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EDJbJ-teYKVsi12cufid-2" target="EDJbJ-teYKVsi12cufid-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EDJbJ-teYKVsi12cufid-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EDJbJ-teYKVsi12cufid-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="235" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EDJbJ-teYKVsi12cufid-2" value="解析引擎（PE）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="210" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EDJbJ-teYKVsi12cufid-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EDJbJ-teYKVsi12cufid-4" target="EDJbJ-teYKVsi12cufid-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EDJbJ-teYKVsi12cufid-4" value="MCC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="310" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EDJbJ-teYKVsi12cufid-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EDJbJ-teYKVsi12cufid-5" target="EDJbJ-teYKVsi12cufid-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EDJbJ-teYKVsi12cufid-5" value="驱动器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="390" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EDJbJ-teYKVsi12cufid-6" value="硬件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="460" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EDJbJ-teYKVsi12cufid-11" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="805" width="10" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="EDJbJ-teYKVsi12cufid-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EDJbJ-teYKVsi12cufid-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EDJbJ-teYKVsi12cufid-15" value="AutoPE&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="800" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EDJbJ-teYKVsi12cufid-16" value="JogPE(手动连续)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="335" y="835" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EDJbJ-teYKVsi12cufid-18" value="IncPE手动步进" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="335" y="870" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EDJbJ-teYKVsi12cufid-21" value="HWPE手轮连续" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="910" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EDJbJ-teYKVsi12cufid-23" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;size=0.5;" vertex="1" parent="1">
+          <mxGeometry x="460" y="700" width="20" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="EDJbJ-teYKVsi12cufid-26" value="GParser(G命令解析)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="480" y="690" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EDJbJ-teYKVsi12cufid-27" value="CutterCompensation(刀具补偿)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="486" y="725" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EDJbJ-teYKVsi12cufid-28" value="Techology(工艺处理模块)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="486" y="755" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EDJbJ-teYKVsi12cufid-29" value="KineticPreProcess(运动指令预处理)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="486" y="790" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EDJbJ-teYKVsi12cufid-30" value="BezierTransitiion(轨迹预处理贝塞尔过渡)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="486" y="825" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EDJbJ-teYKVsi12cufid-31" value="VelocityPlanning(速度规划模块)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="486" y="855" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EDJbJ-teYKVsi12cufid-32" value="StepProcess(对差补NcStep进行后处理)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="486" y="885" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EDJbJ-teYKVsi12cufid-33" value="NccmdIssuer(流水线最后一个worker，完成与channel的数据交互)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="486" y="910" width="360" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EDJbJ-teYKVsi12cufid-34" value="PE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="855" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EDJbJ-teYKVsi12cufid-38" value="Channel" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="414" y="180" width="266" height="140" as="geometry">
+            <mxRectangle x="414" y="180" width="80" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EDJbJ-teYKVsi12cufid-39" value="Magzine(刀具补偿管理、刀具管理、刀库管理)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EDJbJ-teYKVsi12cufid-38">
+          <mxGeometry y="26" width="266" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EDJbJ-teYKVsi12cufid-40" value="状态管理/模式管理(Auto,HandWheel,Increase,&#xa;Jog,HangWheelGear,仿真)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EDJbJ-teYKVsi12cufid-38">
+          <mxGeometry y="52" width="266" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="EDJbJ-teYKVsi12cufid-41" value="通道管理&#xa;...." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EDJbJ-teYKVsi12cufid-38">
+          <mxGeometry y="100" width="266" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EDJbJ-teYKVsi12cufid-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EDJbJ-teYKVsi12cufid-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="255.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EDJbJ-teYKVsi12cufid-43" value="功能块/组件" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="770" y="170" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="EDJbJ-teYKVsi12cufid-44" value="TraceControl,BitPort,Log,CoorManager" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EDJbJ-teYKVsi12cufid-43">
+          <mxGeometry y="26" width="220" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EDJbJ-teYKVsi12cufid-45" value="Dignastic     ......." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EDJbJ-teYKVsi12cufid-43">
+          <mxGeometry y="52" width="220" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EDJbJ-teYKVsi12cufid-46" value="MotionControl.Core(物理轴坐标管理、&#xa;MCC管理 ......)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EDJbJ-teYKVsi12cufid-43">
+          <mxGeometry y="78" width="220" height="42" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
